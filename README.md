@@ -39,7 +39,7 @@ All items listing
 localhost:3000/api/v1/items
 method: get
 
-Single & bulk ordering (Just consider the item, no. of items & email ids as params for ordering) so associations is not used
+Single & bulk ordering (Just consider the item, no. of items & email ids as params for ordering)
 
 localhost:3000/api/v1/orders 
 method: post
